@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "CalculadoraJosuePech_23AM/1.0.0": {
+        "runtime": {
+          "CalculadoraJosuePech_23AM.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CalculadoraJosuePech_23AM/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
